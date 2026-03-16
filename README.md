@@ -2,12 +2,12 @@
 
 **AIGORN** simplifies complex blockchain interaction using a decentralized swarm network. Build, deploy, and execute cross-chain operations through an intuitive infrastructure for developers and users.
 
-CA pump.fun : xxxxxxxxxxpump
 ## Links
 
 - X (Twitter): https://x.com/AigornChain  
 - Official: https://x.com/AigornChain  
 
+CA pump.fun : xxxxxxxxxxpump
 ---
 
 ## Overview

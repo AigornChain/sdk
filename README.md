@@ -7,7 +7,7 @@
 - X (Twitter): https://x.com/AigornChain  
 - Official: https://x.com/AigornChain  
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : CYvuy5BtzQ8QNqJFHYgJp3oEvfZ24Uq3dwythyNUpump
 ---
 
 ## Overview

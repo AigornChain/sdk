@@ -1,0 +1,16 @@
+{
+  "name": "aigorn",
+  "version": "1.0.0",
+  "description": "AIGORN decentralized swarm infrastructure for cross-chain execution",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/api/server.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.4.0",
+    "cors": "^2.8.5"
+  }
+}
